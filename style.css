@@ -1,0 +1,12 @@
+small{
+    color: red;
+}
+.is-invalid{
+    border-color: red;
+}
+.navbar-brand{
+    color: white;
+}
+form{
+    color: white;
+}
